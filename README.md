@@ -10,10 +10,12 @@ To get data from BitGet API.
 
 [Install Docker Engine](https://docs.docker.com/engine/install/)
 
-## how to use 
+## V2 API
+
+### Get Trade Rate
 
 ```
-bash env/up.sh 
+bash ./src/common.trade-rate.sh BTCUSDT mix
 ```
 
 ## license
