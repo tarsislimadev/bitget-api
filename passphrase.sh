@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+
+PASSPHRASE="PASSPHRASE"
